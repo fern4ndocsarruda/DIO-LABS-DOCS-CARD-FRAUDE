@@ -104,8 +104,4 @@ Se você deseja contribuir com o projeto, siga os seguintes passos:
 4. Envie para o repositório remoto (`git push origin minha-alteracao`).
 5. Abra um **pull request**.
 
-## Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
    
