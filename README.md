@@ -5,10 +5,10 @@ Este é um projeto para **análise de informações de cartões** usando o **Azu
 
 ## Tecnologias Utilizadas
 
-- **Python**: Linguagem de programação usada para o desenvolvimento.
-- **Streamlit**: Framework para criar a interface da aplicação.
-- **Azure Cognitive Services**: Usado para análise de documentos (como PDFs, imagens, etc.).
-- **Git**: Para controle de versão e upload para o GitHub.
+- Python: Linguagem de programação usada para o desenvolvimento.
+- Streamlit: Framework para criar a interface da aplicação.
+- Azure Cognitive Services: Usado para análise de documentos (como PDFs, imagens, etc.).
+- Git: Para controle de versão e upload para o GitHub.
 
 ## Pré-requisitos
 
@@ -16,7 +16,7 @@ Antes de rodar o projeto, você precisará instalar as dependências no seu ambi
 
 ### Passos para Instalar as Dependências
 
-1. **Clone o repositório**:
+1. Clone o repositório:
    Primeiro, clone o repositório para o seu computador:
 
    ```bash
