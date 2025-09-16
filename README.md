@@ -1,7 +1,7 @@
 ````markdown
 # Projeto de Análise de Cartões
 
-Este é um projeto para **análise de informações de cartões** usando o **Azure Document Intelligence** e outras ferramentas de análise de documentos.
+Este é um projeto para análise de informações de cartões usando o Azure Document Intelligence e outras ferramentas de análise de documentos.
 
 ## Tecnologias Utilizadas
 
